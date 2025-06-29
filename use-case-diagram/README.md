@@ -1,4 +1,4 @@
-# 🧾 Use Case Diagram – Airbnb Clone Backend
+# Use Case Diagram – Airbnb Clone Backend
 
 This document outlines the major use cases for the backend system of the Airbnb Clone. Each row represents a feature or system capability, and the table shows which actors interact with each feature.
 
@@ -27,5 +27,8 @@ The main actors are:
 | Receive notifications| Receive notifications |               |                      |
 
 ---
+
+|<img src="AIrbnb_use_case.png" /> |
+|:--:|
 
 
